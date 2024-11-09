@@ -1,0 +1,13 @@
+export {default as Landing} from './Landing';
+export {default as Login} from './Login';
+export {default as Search} from './Search';
+export {default as VoterList} from './VoterList';
+export {default as VoterDetails} from './VoterDetails';
+export {default as SearchListGender} from './SearchListGender';;
+export {default as SearchListDuplicate} from './SearchListDuplicate';
+export {default as ChangePassword} from './ChangePassword';
+export {default as Layout} from './Layout'
+export {default as Suchana} from './Suchana'
+export {default as SuchanaInfoAdd} from './SuchanaInfoAdd'
+export {default as SearchListByMultiple} from './SearchListByMultiple'
+export {default as SearchListByVoterType} from './SearchListByVoterType'
